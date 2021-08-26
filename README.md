@@ -44,4 +44,5 @@ you can use in windows with executable link in below.
 
 Without installing python
 
-https://drive.google.com/file/d/1tDE2pCDd8RUGq-NT1sgILpw61tto85S_/view?usp=sharing
+
+https://tinyurl.com/yzaohvp5
