@@ -3,4 +3,4 @@
 
 
 username:- shop
-password:- admin
+& password:- admin
