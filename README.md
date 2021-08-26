@@ -29,6 +29,6 @@ you can use in windows with executable link in below.
 
 
 
-#Windows files in .exe 
+# Windows file in .exe 
 
 https://drive.google.com/file/d/1tDE2pCDd8RUGq-NT1sgILpw61tto85S_/view?usp=sharing
